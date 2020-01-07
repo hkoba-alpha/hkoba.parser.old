@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="nes" type="Native" />
-      <mapping ext="glsl" type="PLAIN_TEXT" />
-      <mapping ext="asm" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
